@@ -12,3 +12,5 @@ This repository contains the basic code for the following reinforcement learning
 * Actor Critic (AC)
 
 Python 3.7 Tensorflow 1.14.0
+
+Author: ZHANG Zhen, Dr. (Data Scientist, Singapore Data Science Consortium)
